@@ -1,4 +1,4 @@
-<!-- INTRODUÇÃO
+INTRODUÇÃO
 O trabalho consistia em desenvolver um programa para ler e processar arquivos 
 ASCII para encontrar as palavras mais usadas na língua portuguesa. Para isso, 
 tentamos usar a tabela hash com encadeamento separado para o tratamento de colisões 
@@ -67,6 +67,6 @@ Compilação e Execução:
 
 cd build
 make
-./tests/test1
-./tests/test2
-./tests/test3 -->
+.tests/test1
+.tests/test2
+.tests/test3
